@@ -1,5 +1,7 @@
 # One Line, No Deadline Met
 
+Entry note: the excuse swears it was submitted in a dream last night — and the subconscious, disappointingly, doesn't do attachments.
+
 A deterministic Python program that writes a single one-line joke excusing a missed deadline to `entry.txt`. The entry is exactly one line of English text (135 characters), with no image, no link, and no second line.
 
 Competition: [One Line, No Deadline Met](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
